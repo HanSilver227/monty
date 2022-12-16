@@ -12,7 +12,7 @@
 7. div
 8. mul
 9. mod
-10. comments
+10. commenjts
 11. pchar
 12. pstr
 13. rotl
@@ -21,3 +21,8 @@
 16. Add two digits
 17. Multiplication
 18. Multiplication level up
+
+## Description
+
+## Author(s)
+- Han Silver - HanSilver227
